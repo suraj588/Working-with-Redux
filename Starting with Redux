@@ -1,0 +1,7 @@
+## Create Redux folder
+## Create the following files - actionType.js, action.js, reducer.js, store.js
+## First decide the actions to be performed by your Application.
+
+
+
+## Action.js should contain functions accepting payload as a parameter. This payload will be a value which you need to use in updating the state later on. The functions should return an object with type and payload as keys.
